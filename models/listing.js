@@ -24,7 +24,7 @@ const listingSchema = new Schema({
     },
     price: Number,
     location: String,
-    county: String,
+    country: String,
 });
 
 // creation of model
